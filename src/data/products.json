@@ -1,0 +1,28 @@
+[
+  {
+    "title": "Remera Negra",
+    "description": "Algodón",
+    "code": "REM123",
+    "price": 9200,
+    "status": true,
+    "stock": 15,
+    "category": "ropa",
+    "thumbnails": [
+      "img1.jpg"
+    ],
+    "id": "1766766828353"
+  },
+  {
+    "title": "Pantalon azul",
+    "description": "Algodón",
+    "code": "PAN123",
+    "price": 10000,
+    "status": true,
+    "stock": 24,
+    "category": "ropa",
+    "thumbnails": [
+      "img2.jpg"
+    ],
+    "id": "1766766990658"
+  }
+]
